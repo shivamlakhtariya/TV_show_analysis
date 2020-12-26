@@ -36,3 +36,7 @@ Data analysis is defined as a process of cleaning, transforming, and modeling da
 ![GitHub Logo](https://github.com/shivamlakhtariya/TV_show_analysis/blob/main/Result/8%20all%20show.JPG)
 
 
+## Contributors
+
+| [Parth Patel](https://github.com/parth-27)                                                                                                            
+| [Shivam Lakhtariya](https://github.com/shivamlakhtariya)
